@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/l-ra/iota-experiments/issues"
   },
-  "homepage": "https://github.com/l-ra/iota-experiments#readme"
+  "homepage": "https://github.com/l-ra/iota-experiments#readme",
+  "dependencies": {
+    "iota.lib.js": "^0.4.6"
+  }
 }
