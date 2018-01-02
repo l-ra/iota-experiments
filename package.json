@@ -1,0 +1,23 @@
+{
+  "name": "iota-experiments",
+  "version": "0.0.1",
+  "description": "Some JS experimenting with IOTA",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l-ra/iota-experiments.git"
+  },
+  "keywords": [
+    "iota",
+    "javascript"
+  ],
+  "author": "lra@r73.info",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/l-ra/iota-experiments/issues"
+  },
+  "homepage": "https://github.com/l-ra/iota-experiments#readme"
+}
