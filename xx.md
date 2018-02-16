@@ -8,9 +8,9 @@ Zákon č. 111/2009 Sb., o základních registrech, ve znění zákona č.
 zákona č. 298/2016 Sb., zákona č. 192/2016 Sb., zákona č. 456/2016 Sb.
 a zákona č. 460/2016 Sb. se mění takto:
 
-* 1) § 2 písm. f) se za slova „veřejné správy“ vkládají slova „nebo
+* 1- § 2 písm. f) se za slova „veřejné správy“ vkládají slova „nebo
     informační systém soukromoprávního uživatele údajů“.
-* 2) § 4 se ruší a nahrazuje se novým textem, který zní:
+* 2- § 4 se ruší a nahrazuje se novým textem, který zní:
     „Soukromoprávní uživatel poskytující základní službu, využívá údaje
     vedené v základním registru na základě oprávnění soukromoprávního
     uživatele vyplývajícího z jiného právního předpisu, který zakládá
@@ -22,7 +22,7 @@ a zákona č. 460/2016 Sb. se mění takto:
     systému základních registrů přímý přístup informačního systému
     soukromoprávního uživatele do systému základních registrů. Podmínky
     přímého připojení stanoví Správa základních registrů“
-* 3) §5 se mění tak, že nově zní:  
+* 3- §5 se mění tak, že nově zní:  
     „Orgán veřejné moci je povinen využívat při své činnosti referenční
     údaje obsažené v příslušném základním registru v rozsahu, v jakém je
     oprávněn tyto údaje využívat podle tohoto zákona nebo podle jiných
